@@ -1,0 +1,101 @@
+.comment
+{
+    
+    margin-top: 130px;
+    width: 68%;
+    height: 100%;
+    color: black;
+}
+.comment-number h6
+{
+    margin-top: -15px;
+    color:black;
+    font-family: sans-serif;
+    
+}
+.comment-type
+{
+    
+    height:70px;
+    display: flex;
+}
+.comment-img
+{
+    height:70px;
+    width:9%;
+    margin-top: 8px;
+    
+   
+}
+.comment-img img{
+    border-radius: 999px;
+    height:40px;
+}
+.allcomment
+{
+    margin-top: 8px;
+    width:91%;
+}
+.allcomment input{
+    margin-top: 8px;
+    border:none;
+    border-bottom: 1px solid #909090;
+    outline:none;
+    width: 91%;
+    margin-left: -13px;
+}
+.public-comments
+{
+    
+    
+    display: flex;
+}
+.channelIc
+{
+  
+    width:9%;
+    margin-top: 20px;
+}
+.channelIc img
+{
+    border-radius: 999px;
+    height:40px;
+}
+.comment-detail
+{
+    
+    width: 91%;
+    margin-top: 18px;
+    margin-left: -13px;
+}
+.comment-detail p{
+    font-size: 13px;
+    color:black;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.comment-detail span
+{
+    font-weight: lighter;
+    font-family: sans-serif;
+    color:grey
+}
+.comment-detail h6 
+{
+    
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-top: -9px;
+}
+.comment-detail .up
+{
+    font-size: 14px;
+}
+.comment-detail .down
+{
+    font-size: 14px;
+}
+.like
+{
+    font-size: 12px;
+}

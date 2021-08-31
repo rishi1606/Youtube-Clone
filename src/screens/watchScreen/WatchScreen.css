@@ -1,0 +1,89 @@
+.watchscreen
+{
+    
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.watch-video
+{
+    
+    width:68%;
+    height: 100%;
+   
+}
+.watch-filter
+{
+   
+    width:32%;
+    height: 100%;
+}
+
+.video-play
+{
+    height: 60vh;
+    margin-top: 30px;
+}
+.allvid
+{
+    margin-top: 70px;
+}
+.sidevideos{
+    
+    width: 350px;
+    margin-left: -355px;
+    display: flex;
+    height: 112px;
+    padding: 10px;
+
+}
+
+.sideimage
+{
+    
+    width: 52%;
+    margin-top: 10px;
+    height: 100px;
+    
+
+}
+.sideimage img{
+    width: 100%;
+    height: 100%;
+}
+
+.sidetitle
+{
+    
+    width: 52%;
+    margin-top: 10px;
+    height: 100px;
+}
+.sidetitle h6 
+{
+    margin-left: 5px;
+}
+.sidetitle h4 
+{
+     font-size: 14px;
+    color:gray;
+    font-weight: lighter;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.sidetitle h5{
+    font-size: 14px;
+    color:#858585;
+    font-weight: lighter;
+    margin-left: 5px;
+    margin-top: 10px;
+    
+}
+.sidetitle p{
+    font-size: 14px;
+    color:#858585;
+    font-weight: lighter;
+    margin-left: 5px;
+    margin-top: -9px;
+}

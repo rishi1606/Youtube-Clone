@@ -1,0 +1,30 @@
+@import '../../base.css';
+
+.categoriesBa {
+   padding: 0.1rem 0;
+   font-size: 0.8rem;
+   display: flex;
+   overflow-x: scroll;
+   scrollbar-width: none;
+   border-bottom:1px solid #f2f2f2;
+   margin-top: 30px;
+   margin-left: 10px;
+  
+ 
+}
+.categoriesBa::-webkit-scrollbar {
+   width: 0px;
+}
+.categoriesBa span {
+   margin-right: 1rem;
+   padding: 0.5rem;
+   white-space: nowrap;
+   border-radius: 999px;
+}
+.categoriesBa span:hover {
+   background-color: #f2f2f2;
+}
+.categoriesBa span.active {
+   color: #fff;
+   background-color: #606060;
+}

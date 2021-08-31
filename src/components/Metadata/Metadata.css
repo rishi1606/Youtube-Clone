@@ -1,0 +1,120 @@
+.metadata
+{
+  
+    margin-top: 10px;
+}
+.title h1
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 600;
+}
+.Meta-details
+{
+    border-bottom:1px solid #cccccc;
+    height: 40px;
+    display: flex;
+   
+}
+.views
+{
+    width: 30%;
+    margin-left: 2px; 
+}
+.likes
+{
+    width: 70%;
+    
+   
+}
+.likes p{
+    margin-left: 280px;
+    border-bottom: 1px solid #909090;
+    height: 40px;
+    width: 135px;
+    
+}
+.up
+{
+    color: #909090;
+}
+.down
+{
+    color: #909090;
+}
+.titleMeta
+{
+    
+    height: 100%;
+    width: 100%;
+    display: flex;
+    margin-top: 22px;
+    border-bottom:1px solid #cccccc;
+    
+}
+
+.Meta_icon
+{
+    
+    width: 70px;
+    
+    
+}
+.Meta_icon img
+{
+    border-radius: 999px;
+    height: 50px;
+    margin-top: 7px;
+}
+.Meta_details
+{
+    
+    width: 550px;
+    
+}
+.Meta_details h6
+{
+    margin-top: 5px;
+    color: black;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.Meta_details h3
+{
+    font-size: 14px;
+    margin-top: -3px;
+    
+}
+.Meta_details p
+{
+    font-size: 14px;
+    margin-top: 25px;
+    color: black;
+}
+.Meta_details h2{
+    font-size: 12px;
+    margin-top: 15px;
+    color: #606060;
+}
+.Meta_Subscribe
+{
+    width: 250px;
+   
+ 
+}
+.Meta_Subscribe .subs{
+    /* background-color: #CC0000; */
+    color: white;
+    width: 130px;
+    height: 40px;
+    float: right;
+    text-decoration: none;
+    outline: none;
+}   
+
+/* .Meta_Subscribe .subs:hover{
+        background-color: #CC0000;
+} */

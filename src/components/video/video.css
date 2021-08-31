@@ -1,0 +1,150 @@
+@import '../../base.css';
+
+/* .video {
+   margin-bottom: 1rem;
+   padding: 0.7rem;
+   font-weight: 500;
+   font-size: 0.9rem;
+   cursor: pointer;
+   width:275px;
+ 
+ 
+ 
+}
+.row
+{
+   background-color: #f9f9f9;
+   border-top: 1px solid #f2f2f2;
+   margin-top: -13px;
+}
+
+.video__top {
+   margin-bottom: 0.5rem;
+   position: relative;
+   
+   
+}
+.video__top img {
+   width: 100%;
+
+}
+.video__top span {
+   position: absolute;
+   bottom: 0.3rem;
+   right: 0.3rem;
+   padding: 0.2rem;
+   background: #080808 ec;
+   border-radius: 3px;
+   
+}
+.video__title {
+ 
+   color:black;
+   
+  
+   margin-left: 40px;
+   margin-top:3px;
+ 
+   
+}
+.video__details {
+   display: flex;
+   align-items: center;
+}
+.video__details span{
+   margin-top: 25px;
+   margin-left: 41px;
+   color:#606064;
+   font-family: sans-serif;
+}
+.video__channel {
+   display: flex;
+   align-items: center;
+   margin: 0.5rem 0;
+   
+}
+.video__channel img {
+   width: 36px;
+   height: 36px;
+   border-radius: 50%;
+   margin-right: 0.5rem;
+   cursor: pointer;
+   margin-top:-108px;
+  
+   margin-left: -3px;
+}
+.video__channel p {
+   margin-bottom: 0;
+   margin-top: -75px;
+   margin-left: 1px;
+   color:#606064;
+   font-family: sans-serif;
+  
+ 
+  
+} */
+.video {
+   margin-bottom: 1rem;
+   padding: 0.7rem;
+   font-weight: 500;
+   font-size: 0.9rem;
+   cursor: pointer;
+   width:275px;
+}
+.row
+{
+   background-color: #f9f9f9;
+   border-top: 1px solid #f2f2f2;
+   margin-top: -13px;
+}
+.video__top {
+   margin-bottom: 0.5rem;
+   position: relative;
+}
+.video__top .lazy-load-image-background {
+   width: 100%;
+}
+.video__top img {
+   width: 100%;
+}
+.video__top__duration {
+   position: absolute;
+   bottom: 0.3rem;
+   right: 0.3rem;
+   padding: 0.2rem;
+   background: #080808 ec;
+   border-radius: 3px;
+}
+.video__title {
+   margin-bottom: 0.1rem;
+   color: #fff;
+}
+.video__details {
+   display: flex;
+   align-items: center;
+}
+.video__details span{
+   color:#606064;
+   font-family: sans-serif;
+}
+.video__channel {
+   display: flex;
+   align-items: center;
+   margin: 0.5rem 0;
+}
+.video__title
+{
+   color:black;
+}
+.video__channel img {
+   width: 36px;
+   height: 36px;
+   border-radius: 50%;
+   margin-right: 0.5rem;
+   cursor: pointer;
+}
+.video__channel p {
+   margin-bottom: 0;
+   color:#606064;
+   font-family: sans-serif;
+}
